@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022  <br>📚 Currently learning TypeScript and Node.js  <br>🎯 Goals: Become a Full Stack Engineer and build meaningful projects  <br>🎲 Fun fact: I once debugged a program in my sleep. True story.</p>
+<p align="left">📚 Currently learning TypeScript and Node.js  <br>🎯 Goals: Become a Full Stack Engineer and build meaningful projects  <br>🎲 Fun fact: I once debugged a program in my sleep. True story.</p>
 
 ###
 
