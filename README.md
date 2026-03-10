@@ -1,11 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">Hi! My name is José Marcos. I'm from Brazil, a Backend Developer transitioning to DevOps/Cloud.</p>
-
+<p align="left">Hi! My name is José Marcos. I'm a CS student from Brazil, focused on backend development and transitioning to DevOps/Cloud.</p>
 <h2 align="left">About me</h2>
-
 <p align="left">🔹 Currently learning Go and AWS<br>🎯 Goals: Become a Platform/DevOps Engineer</p>
-
 <h2 align="left">💻 Tech Stack:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -28,12 +24,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-<h2 align="left">📱 Connect with me</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/jmarcosnsf/?locale=en_US" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
 <img src="https://raw.githubusercontent.com/jmarcos3/jmarcos3/output/snake.svg" alt="Snake animation" />
